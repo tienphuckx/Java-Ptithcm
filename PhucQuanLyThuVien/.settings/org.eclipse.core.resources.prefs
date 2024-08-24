@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/com/phuc/main/Main.java=UTF-8
+encoding//src/com/phuc/model/HoSo.java=UTF-8
+encoding//src/com/phuc/model/NhaXuatBan.java=UTF-8
+encoding//src/com/phuc/service/HoSoService.java=UTF-8
+encoding//src/com/phuc/test/TestSachChiTietUI.java=UTF-8
+encoding//src/com/phuc/test/TestThemSachUI.java=UTF-8
+encoding//src/com/phuc/test/TestTrangChuUI.java=UTF-8
+encoding//src/com/phuc/ui/HoSoUI.java=UTF-8
+encoding//src/com/phuc/ui/SachChiTietUI.java=UTF-8
+encoding//src/com/phuc/ui/SachUI.java=UTF-8
+encoding//src/com/phuc/ui/SuaHoSoUI.java=UTF-8
+encoding//src/com/phuc/ui/ThemHoSoUI.java=UTF-8
+encoding//src/com/phuc/ui/ThemSachUI.java=UTF-8
+encoding//src/com/phuc/ui/TrangChuUI.java=UTF-8

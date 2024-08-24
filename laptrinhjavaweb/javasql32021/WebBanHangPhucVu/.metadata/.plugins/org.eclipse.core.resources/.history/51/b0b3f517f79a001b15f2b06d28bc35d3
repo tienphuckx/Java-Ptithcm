@@ -1,0 +1,11 @@
+package test;
+
+public class TestNhanVien {
+
+	public static void main(String[] args) {
+		NhanVien teo = new NhanVienChinhThuc();
+		System.out.println(teo);
+
+	}
+
+}

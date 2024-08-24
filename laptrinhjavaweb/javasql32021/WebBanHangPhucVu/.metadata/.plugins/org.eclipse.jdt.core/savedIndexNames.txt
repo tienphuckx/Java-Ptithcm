@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+E:\Java Source Code\laptrinhjavaweb\javasql32021\WebBanHangPhucVu\.metadata\.plugins\org.eclipse.jdt.core
+2159599752.index
+821820860.index
+345288957.index
+3707920382.index

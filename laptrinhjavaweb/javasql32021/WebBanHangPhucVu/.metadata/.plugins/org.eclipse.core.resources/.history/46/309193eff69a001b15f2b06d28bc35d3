@@ -1,0 +1,13 @@
+package test;
+
+/**
+ * @author Admin
+ *
+ */
+public abstract class NhanVien {
+	private String ten;
+	private String cmnd;
+	public abstract int xuatLuong();
+	
+	
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\Java Source Code\laptrinhjavaweb\javasql32021\WebBanHangPhucVu\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3257751673.index
+3742405475.index
+3683298636.index
+113671918.index
+2159599752.index
+3683555712.index
